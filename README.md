@@ -13,4 +13,4 @@ It has the same API as pandas plotting API but charts are interactive as it uses
 
 hvplot -> Holoviews -> (Bokeh, Plotly, Matplotlib)
 
-![plot](Multi-Page-Web-App.png)
+![alt text](Multi-Page-Web-App.png)
