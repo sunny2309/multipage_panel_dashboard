@@ -1,4 +1,4 @@
-# MultiPage Panel Dashboard
+# MultiPage Dashboard using Python Dashboarding Library "Panel"
 
 The repository holds code for multipage dashboard created using the Python dashboarding library Panel. The dashboard keeps links (as buttons) to pages in the sidebar.
 
