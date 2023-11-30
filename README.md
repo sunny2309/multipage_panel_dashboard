@@ -15,4 +15,4 @@ hvplot -> Holoviews -> (Bokeh, Plotly, Matplotlib)
 
 ![alt text](https://github.com/sunny2309/multipage_panel_dashboard/blob/main/Multi-Page-Web-App.png?raw=true)
 ![alt text](https://github.com/sunny2309/multipage_panel_dashboard/blob/main/Multi-Page-Web-App.png)
-<img src="Multi-Page-Web-App.png" alt="Dashboard" width=700/>
+<img src="/Multi-Page-Web-App.png" alt="Dashboard" width="700"/>
