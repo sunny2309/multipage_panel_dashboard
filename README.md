@@ -4,7 +4,7 @@ The repository holds code for multipage dashboard created using the Python dashb
 
 If you want an explanation for the code repo, please feel free to check the below youtube video.
 
-* https://www.youtube.com/
+* https://www.youtube.com/watch?v=G3M0lQcWpqE
 
 Panel is used to create dashboard layout, add widgets, and so on. 
 
@@ -12,9 +12,3 @@ For charting purposes, the Python data visualization library "hvplot" is used wh
 It has the same API as pandas plotting API but charts are interactive as it uses the Python library "holoviews" (built on top of "Bokeh") to create charts.
 
 hvplot -> Holoviews -> (Bokeh, Plotly, Matplotlib)
-
-![alt text](https://github.com/sunny2309/multipage_panel_dashboard/blob/0322b41361cc2fdd2747b5abb280d224a6944275/Multi-Page-Web-App.png?raw=true)
-![alt text](https://github.com/sunny2309/multipage_panel_dashboard/blob/0322b41361cc2fdd2747b5abb280d224a6944275/Multi-Page-Web-App.png)
-
-
-<img src="Multi-Page-Web-App.png" alt="Dashboard"/>
